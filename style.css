@@ -1,0 +1,45 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
+
+.words{
+    background-color: bisque;
+    color: black;
+    border-radius: 20px;
+    border: 1px solid grey;
+}
+
+#btn{
+    font-weight: bolder;
+    background-color: peru;
+    border-radius: 20px;
+}
+
+#btn:hover{
+    background-color: black;
+    color: white;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+}
+
+#result{
+    color: blueviolet;
+    font-size: 50px;
+    font-weight: bolder;
+    display:flex;
+    justify-content: center;
+}
+
+#result:hover{
+    background-color: pink;
+    color: aquamarine;
+}
