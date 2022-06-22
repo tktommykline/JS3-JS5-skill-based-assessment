@@ -12,7 +12,7 @@ const writeThis = () => {
         let user = new Person(firstName.value, lastName.value, age.value);
     result.innerHTML = user.personMaker;
     }else{
-        alert('Please enter a name and age!');
+        alert('Please enter a full name and age!');
     }
 }
 
